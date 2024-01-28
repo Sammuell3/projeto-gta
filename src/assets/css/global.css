@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #282828;
+    color: #fff;
+    font-family: 'Chalet';
+}
+
+@font-face {
+    font-family: "ChaletComptime";
+    src: url("../fonts/ChaletComprime.ttf");
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
